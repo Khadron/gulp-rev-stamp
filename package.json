@@ -1,6 +1,6 @@
 {
     "name": "gulp-rev-stamp",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "以最简单粗暴的方式，添加静态资源版本号，防止浏览器缓存",
     "license": "MIT",
     "repository": "khadron/gulp-rev-stamp",
@@ -25,7 +25,7 @@
         "node": ">=4"
     },
     "dependencies": {
-        "event-stream": "^3.1.0",
-        "gulp-util": "^2.2.14"
+        "event-stream": "^3.3.4",
+        "gulp-util": "^2.2.20"
     }
 }
