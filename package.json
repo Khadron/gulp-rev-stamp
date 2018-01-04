@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "description": "以最简单粗暴的方式，添加静态资源版本号，防止浏览器缓存",
     "license": "MIT",
-    "repository": "khadron/gulp-rev",
+    "repository": "khadron/gulp-rev-stamp",
     "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
